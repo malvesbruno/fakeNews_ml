@@ -44,13 +44,25 @@ Após treinamento, o modelo atingiu:
 
 Esses resultados indicam que o modelo é altamente confiável para esse dataset.
 
-Próximos Passos
+## Próximos Passos
 
-Integração do modelo com a API FastAPI (repositório separado)
+- [x] Integração do modelo com a API FastAPI (repositório separado)
 
-Criação de frontend que consome a API (repositório separado)
+- [ ] Criação de frontend que consome a API (repositório separado)
 
-Deploy do modelo na AWS para consumo online
+- [ ] Deploy do modelo na AWS para consumo online
+
+## 💡 Esse projeto faz parte de um ecossistema maior:
+
+- [Fake News ML Model](https://github.com/malvesbruno/fakeNews_ml)
+ → este modelo
+
+- [Fake News API](https://github.com/malvesbruno/fakeNews_API)
+ → Fast API
+
+- Fake News Frontend
+ → interface do usuário
+
 
 ## Referências
 - [Dataset de Fake New](https://www.kaggle.com/datasets)
