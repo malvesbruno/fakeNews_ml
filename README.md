@@ -60,7 +60,7 @@ Esses resultados indicam que o modelo é altamente confiável para esse dataset.
 - [Fake News API](https://github.com/malvesbruno/fakeNews_API)
  → Fast API
 
-- Fake News Frontend
+- [Fake News Frontend](https://github.com/malvesbruno/fakeNews_FrontEnd)
  → interface do usuário
 
 
